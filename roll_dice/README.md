@@ -1,3 +1,4 @@
+!(rolldice.png)
 # Device Rolling App
 This Flutter project is a simple app that allows you to roll a virtual device. It provides a user interface where you can tap a button to simulate rolling a device, and the app will display a random number between 1 and 6, just like rolling a dice.
 

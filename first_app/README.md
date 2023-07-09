@@ -1,4 +1,4 @@
-! First-App(firstapp.png)
+!FirstApp(firstapp.png)
 ## My First Flutter App
 This is my first Flutter app, a simple project that displays text on the screen. It serves as a starting point for learning Flutter and understanding the basics of building a mobile app using the framework.
 

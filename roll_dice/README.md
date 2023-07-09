@@ -1,7 +1,7 @@
-Device Rolling App
+#Device Rolling App
 This Flutter project is a simple app that allows you to roll a virtual device. It provides a user interface where you can tap a button to simulate rolling a device, and the app will display a random number between 1 and 6, just like rolling a dice.
 
-Features
+#Features
 Simulate rolling a device by tapping a button.
 Display a random number between 1 and 6.
 Interactive user interface with smooth animations.
@@ -9,7 +9,7 @@ Getting Started
 To get started with the app, follow these steps:
 
 
-Folder Structure
+#Folder Structure
 The project follows a standard Flutter folder structure:
 
 lib: Contains the main Dart code for the app.
@@ -20,7 +20,7 @@ widgets: Contains reusable widgets used in the app.
 rolling_button.dart: Custom button widget for rolling the device.
 result_display.dart: Widget to display the rolled result.
 test: Contains the unit tests for the app.
-Dependencies
+#Dependencies
 The app uses the following dependencies:
 
 flutter: The Flutter SDK.
